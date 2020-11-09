@@ -19,3 +19,11 @@
 .messages .message{
   color: white;
 }
+
+.textarea {
+  padding: 10px;
+  width: 100%;
+}
+.button {
+
+}

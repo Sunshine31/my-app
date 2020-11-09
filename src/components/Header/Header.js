@@ -4,7 +4,7 @@ import head from './Header.module.css';
 const Header = () => {
   return (
     <header className={head.header}>
-      <img src="https://image.shutterstock.com/image-vector/dots-letter-c-logo-design-260nw-551769190.jpg" />
+      <img src="https://image.shutterstock.com/image-vector/dots-letter-c-logo-design-260nw-551769190.jpg" alt="" />
     </header>
   );
 };
